@@ -1,0 +1,19 @@
+#bibliografia  {
+	text-align: center;
+}
+
+
+#bibliografia .contenedor {
+	display: flex;
+	justify-content: right;
+	
+}
+
+#bibliografia article  {
+	margin: 15px;
+}
+
+#bibliografia img {
+	width: 100%;
+	max-width: 180px;
+ }

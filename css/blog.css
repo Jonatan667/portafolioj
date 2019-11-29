@@ -1,0 +1,23 @@
+#blog  {
+	background: #225;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}	
+
+#blog .contenedor {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+
+}
+ 
+#blog article  {
+	margin: 15px;
+}
+
+#blog img {
+	width: 100%;
+	max-width: 380px;
+}
+
